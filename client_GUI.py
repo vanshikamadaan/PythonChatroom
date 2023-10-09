@@ -10,10 +10,7 @@ import _thread
 import pickle
 
 
-IP = "apnachatroom69.ddns.net"
 IP = "localhost"
-IP ="apnachatroom.noice.me"
-IP = "192.168.0.165"
 port = 6969
 
 headerLength = 10
